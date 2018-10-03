@@ -1,7 +1,1 @@
-Edit this file to add assembly instructions
-
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+This Arduino is identical to the one shipped in the Maslow kits. To upload the Maslow firmware to the Arduino follow the steps [here](http://maslowcommunitygarden.org/Electronics.html?instructions=true)
